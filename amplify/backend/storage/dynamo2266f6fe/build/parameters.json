@@ -1,0 +1,7 @@
+{
+  "tableName": "fileinfo",
+  "partitionKeyName": "id",
+  "partitionKeyType": "N",
+  "sortKeyName": "input_text",
+  "sortKeyType": "S"
+}

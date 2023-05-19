@@ -1,0 +1,34 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fovuscodingchallenge-dev-122351-authRole",
+      "UnauthRoleArn": "arn:aws:iam::976193817078:role/amplify-fovuscodingchallenge-dev-122351-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::976193817078:role/amplify-fovuscodingchallenge-dev-122351-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fovuscodingchallenge-dev-122351-deployment",
+      "UnauthRoleName": "amplify-fovuscodingchallenge-dev-122351-unauthRole",
+      "StackName": "amplify-fovuscodingchallenge-dev-122351",
+      "StackId": "arn:aws:cloudformation:us-east-1:976193817078:stack/amplify-fovuscodingchallenge-dev-122351/685bcd20-cf30-11ed-afa4-0e69aac21eeb",
+      "AmplifyAppId": "d1ib3axfnpjnxz",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-fovuscodingchallenge-dev-122351-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "fovuscodingchallenge1173e82b": {}
+      },
+      "function": {
+        "fovuscodingchallengef50a5546": {
+          "deploymentBucketName": "amplify-fovuscodingchallenge-dev-122351-deployment",
+          "s3Key": "amplify-builds/fovuscodingchallengef50a5546-7a61552f57492b583076-build.zip"
+        }
+      },
+      "storage": {
+        "storages3": {},
+        "dynamo2266f6fe": {}
+      },
+      "api": {
+        "api68751048": {}
+      }
+    }
+  }
+}

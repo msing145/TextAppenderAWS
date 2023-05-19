@@ -1,0 +1,16 @@
+{
+  "resourceName": "dynamo2266f6fe",
+  "tableName": "fileinfo",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "number"
+  },
+  "sortKey": {
+    "fieldName": "input_text",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": [
+    "fovuscodingchallengef50a5546"
+  ]
+}
